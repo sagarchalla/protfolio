@@ -1,12 +1,11 @@
 
 body { 
     background-color:blanchedalmond;
-    position: relative;
-    font-family: Algerian;
+    font-family: 'Roboto', sans-serif;
 }
 
 p { 
-  font-size: 5vw;  
+  font-size: 1vw;
 }
 
 button {
@@ -28,4 +27,3 @@ button:hover{
     color:#000000;
     background-color:#FFFFFF;
     }
-  
